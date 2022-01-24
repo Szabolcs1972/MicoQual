@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MicoQual">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/MicoQual.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
